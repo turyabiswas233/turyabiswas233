@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=turyabiswas233&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+[![wakatime](https://wakatime.com/badge/user/turyabiswas233.svg)](https://wakatime.com/@turyabiswas233)
 
 <br/>
 
@@ -71,4 +71,5 @@
 </a>
 
 ![TB's Graph](https://github-readme-activity-graph.vercel.app/graph?username=turyabiswas233&custom_title=Turya%27s%20GitHub%20Activity%20Graph&bg_color=01111D&color=2F7FFF&line=2F7FFF&point=2F7FFF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
