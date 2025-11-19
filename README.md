@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=turyabiswas233&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/turyabiswas233.svg)](https://wakatime.com/@turyabiswas233)
+[![wakatime](https://wakatime.com/badge/user/efd5a65c-4133-4cbd-a989-96b8032f98c0.svg)](https://wakatime.com/@efd5a65c-4133-4cbd-a989-96b8032f98c0)
 
 <br/>
 
